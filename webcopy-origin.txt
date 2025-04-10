@@ -1,0 +1,460 @@
+Uri: https://fonts.gstatic.com/s/inter/v18/UcCm3FwrK3iLTcvnUwAT9nA2.woff2
+File Name: C:\Downloaded Web Sites\solaxy-co.web.app\s\inter\v18\UcCm3FwrK3iLTcvnUwAT9nA2.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/inter/v18/UcCm3FwrK3iLTcvnUwcT9nA2.woff2
+File Name: C:\Downloaded Web Sites\solaxy-co.web.app\s\inter\v18\UcCm3FwrK3iLTcvnUwcT9nA2.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/inter/v18/UcCm3FwrK3iLTcvnUwgT9nA2.woff2
+File Name: C:\Downloaded Web Sites\solaxy-co.web.app\s\inter\v18\UcCm3FwrK3iLTcvnUwgT9nA2.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/inter/v18/UcCm3FwrK3iLTcvnUwkT9nA2.woff2
+File Name: C:\Downloaded Web Sites\solaxy-co.web.app\s\inter\v18\UcCm3FwrK3iLTcvnUwkT9nA2.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/inter/v18/UcCm3FwrK3iLTcvnUwoT9nA2.woff2
+File Name: C:\Downloaded Web Sites\solaxy-co.web.app\s\inter\v18\UcCm3FwrK3iLTcvnUwoT9nA2.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/inter/v18/UcCm3FwrK3iLTcvnUwQT9g.woff2
+File Name: C:\Downloaded Web Sites\solaxy-co.web.app\s\inter\v18\UcCm3FwrK3iLTcvnUwQT9g.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/inter/v18/UcCm3FwrK3iLTcvnUwsT9nA2.woff2
+File Name: C:\Downloaded Web Sites\solaxy-co.web.app\s\inter\v18\UcCm3FwrK3iLTcvnUwsT9nA2.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/inter/v18/UcCo3FwrK3iLTcvhYwYL8g.woff2
+File Name: C:\Downloaded Web Sites\solaxy-co.web.app\s\inter\v18\UcCo3FwrK3iLTcvhYwYL8g.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/inter/v18/UcCo3FwrK3iLTcviYwY.woff2
+File Name: C:\Downloaded Web Sites\solaxy-co.web.app\s\inter\v18\UcCo3FwrK3iLTcviYwY.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/inter/v18/UcCo3FwrK3iLTcvmYwYL8g.woff2
+File Name: C:\Downloaded Web Sites\solaxy-co.web.app\s\inter\v18\UcCo3FwrK3iLTcvmYwYL8g.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/inter/v18/UcCo3FwrK3iLTcvsYwYL8g.woff2
+File Name: C:\Downloaded Web Sites\solaxy-co.web.app\s\inter\v18\UcCo3FwrK3iLTcvsYwYL8g.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/inter/v18/UcCo3FwrK3iLTcvtYwYL8g.woff2
+File Name: C:\Downloaded Web Sites\solaxy-co.web.app\s\inter\v18\UcCo3FwrK3iLTcvtYwYL8g.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/inter/v18/UcCo3FwrK3iLTcvuYwYL8g.woff2
+File Name: C:\Downloaded Web Sites\solaxy-co.web.app\s\inter\v18\UcCo3FwrK3iLTcvuYwYL8g.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/inter/v18/UcCo3FwrK3iLTcvvYwYL8g.woff2
+File Name: C:\Downloaded Web Sites\solaxy-co.web.app\s\inter\v18\UcCo3FwrK3iLTcvvYwYL8g.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v22/pxiByp8kv8JHgFVrLBT5Z1JlFc-K.woff2
+File Name: C:\Downloaded Web Sites\solaxy-co.web.app\s\poppins\v22\pxiByp8kv8JHgFVrLBT5Z1JlFc-K.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v22/pxiByp8kv8JHgFVrLBT5Z1xlFQ.woff2
+File Name: C:\Downloaded Web Sites\solaxy-co.web.app\s\poppins\v22\pxiByp8kv8JHgFVrLBT5Z1xlFQ.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v22/pxiByp8kv8JHgFVrLCz7Z1JlFc-K.woff2
+File Name: C:\Downloaded Web Sites\solaxy-co.web.app\s\poppins\v22\pxiByp8kv8JHgFVrLCz7Z1JlFc-K.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v22/pxiByp8kv8JHgFVrLCz7Z1xlFQ.woff2
+File Name: C:\Downloaded Web Sites\solaxy-co.web.app\s\poppins\v22\pxiByp8kv8JHgFVrLCz7Z1xlFQ.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v22/pxiByp8kv8JHgFVrLDD4Z1JlFc-K.woff2
+File Name: C:\Downloaded Web Sites\solaxy-co.web.app\s\poppins\v22\pxiByp8kv8JHgFVrLDD4Z1JlFc-K.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v22/pxiByp8kv8JHgFVrLDD4Z1xlFQ.woff2
+File Name: C:\Downloaded Web Sites\solaxy-co.web.app\s\poppins\v22\pxiByp8kv8JHgFVrLDD4Z1xlFQ.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v22/pxiByp8kv8JHgFVrLDz8Z1JlFc-K.woff2
+File Name: C:\Downloaded Web Sites\solaxy-co.web.app\s\poppins\v22\pxiByp8kv8JHgFVrLDz8Z1JlFc-K.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v22/pxiByp8kv8JHgFVrLDz8Z1xlFQ.woff2
+File Name: C:\Downloaded Web Sites\solaxy-co.web.app\s\poppins\v22\pxiByp8kv8JHgFVrLDz8Z1xlFQ.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v22/pxiByp8kv8JHgFVrLGT9Z1JlFc-K.woff2
+File Name: C:\Downloaded Web Sites\solaxy-co.web.app\s\poppins\v22\pxiByp8kv8JHgFVrLGT9Z1JlFc-K.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v22/pxiByp8kv8JHgFVrLGT9Z1xlFQ.woff2
+File Name: C:\Downloaded Web Sites\solaxy-co.web.app\s\poppins\v22\pxiByp8kv8JHgFVrLGT9Z1xlFQ.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v22/pxiEyp8kv8JHgFVrJJfecg.woff2
+File Name: C:\Downloaded Web Sites\solaxy-co.web.app\s\poppins\v22\pxiEyp8kv8JHgFVrJJfecg.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v22/pxiEyp8kv8JHgFVrJJnecmNE.woff2
+File Name: C:\Downloaded Web Sites\solaxy-co.web.app\s\poppins\v22\pxiEyp8kv8JHgFVrJJnecmNE.woff2
+Content Type: font/woff2
+
+Uri: https://solaxy-co.web.app/
+File Name: C:\Downloaded Web Sites\solaxy-co.web.app\index.htm
+Content Type: text/html
+
+Uri: https://solaxy-co.web.app/index_files/about1.svg
+File Name: C:\Downloaded Web Sites\solaxy-co.web.app\index_files\about1.svg
+Content Type: image/svg+xml
+
+Uri: https://solaxy-co.web.app/index_files/about2.svg
+File Name: C:\Downloaded Web Sites\solaxy-co.web.app\index_files\about2.svg
+Content Type: image/svg+xml
+
+Uri: https://solaxy-co.web.app/index_files/about3.svg
+File Name: C:\Downloaded Web Sites\solaxy-co.web.app\index_files\about3.svg
+Content Type: image/svg+xml
+
+Uri: https://solaxy-co.web.app/index_files/about4.svg
+File Name: C:\Downloaded Web Sites\solaxy-co.web.app\index_files\about4.svg
+Content Type: image/svg+xml
+
+Uri: https://solaxy-co.web.app/index_files/associate-segment
+File Name: C:\Downloaded Web Sites\solaxy-co.web.app\index_files\associate-segment
+Content Type: image/gif
+
+Uri: https://solaxy-co.web.app/index_files/BNB.svg
+File Name: C:\Downloaded Web Sites\solaxy-co.web.app\index_files\BNB.svg
+Content Type: image/svg+xml
+
+Uri: https://solaxy-co.web.app/index_files/both-world.svg
+File Name: C:\Downloaded Web Sites\solaxy-co.web.app\index_files\both-world.svg
+Content Type: image/svg+xml
+
+Uri: https://solaxy-co.web.app/index_files/card.svg
+File Name: C:\Downloaded Web Sites\solaxy-co.web.app\index_files\card.svg
+Content Type: image/svg+xml
+
+Uri: https://solaxy-co.web.app/index_files/coinsult.svg
+File Name: C:\Downloaded Web Sites\solaxy-co.web.app\index_files\coinsult.svg
+Content Type: image/svg+xml
+
+Uri: https://solaxy-co.web.app/index_files/ETH.svg
+File Name: C:\Downloaded Web Sites\solaxy-co.web.app\index_files\ETH.svg
+Content Type: image/svg+xml
+
+Uri: https://solaxy-co.web.app/index_files/feature1.png
+File Name: C:\Downloaded Web Sites\solaxy-co.web.app\index_files\feature1.png
+Content Type: image/png
+
+Uri: https://solaxy-co.web.app/index_files/feature2.png
+File Name: C:\Downloaded Web Sites\solaxy-co.web.app\index_files\feature2.png
+Content Type: image/png
+
+Uri: https://solaxy-co.web.app/index_files/feature3.png
+File Name: C:\Downloaded Web Sites\solaxy-co.web.app\index_files\feature3.png
+Content Type: image/png
+
+Uri: https://solaxy-co.web.app/index_files/history.png
+File Name: C:\Downloaded Web Sites\solaxy-co.web.app\index_files\history.png
+Content Type: image/png
+
+Uri: https://solaxy-co.web.app/index_files/home-bottom-mobile.png
+File Name: C:\Downloaded Web Sites\solaxy-co.web.app\index_files\home-bottom-mobile.png
+Content Type: image/png
+
+Uri: https://solaxy-co.web.app/index_files/home-pepe.png
+File Name: C:\Downloaded Web Sites\solaxy-co.web.app\index_files\home-pepe.png
+Content Type: image/png
+
+Uri: https://solaxy-co.web.app/index_files/info-icon.svg
+File Name: C:\Downloaded Web Sites\solaxy-co.web.app\index_files\info-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://solaxy-co.web.app/index_files/left-arrow.svg
+File Name: C:\Downloaded Web Sites\solaxy-co.web.app\index_files\left-arrow.svg
+Content Type: image/svg+xml
+
+Uri: https://solaxy-co.web.app/index_files/meteoroid-small.svg
+File Name: C:\Downloaded Web Sites\solaxy-co.web.app\index_files\meteoroid-small.svg
+Content Type: image/svg+xml
+
+Uri: https://solaxy-co.web.app/index_files/right-arrow.svg
+File Name: C:\Downloaded Web Sites\solaxy-co.web.app\index_files\right-arrow.svg
+Content Type: image/svg+xml
+
+Uri: https://solaxy-co.web.app/index_files/satellite.png
+File Name: C:\Downloaded Web Sites\solaxy-co.web.app\index_files\satellite.png
+Content Type: image/png
+
+Uri: https://solaxy-co.web.app/index_files/spaceship.png
+File Name: C:\Downloaded Web Sites\solaxy-co.web.app\index_files\spaceship.png
+Content Type: image/png
+
+Uri: https://solaxy-co.web.app/index_files/styles-OU7LPA2N.css
+File Name: C:\Downloaded Web Sites\solaxy-co.web.app\index_files\styles-OU7LPA2N.css
+Content Type: text/css
+
+Uri: https://solaxy-co.web.app/index_files/tab-icon-two.svg
+File Name: C:\Downloaded Web Sites\solaxy-co.web.app\index_files\tab-icon-two.svg
+Content Type: image/svg+xml
+
+Uri: https://solaxy-co.web.app/index_files/telegram.png
+File Name: C:\Downloaded Web Sites\solaxy-co.web.app\index_files\telegram.png
+Content Type: image/png
+
+Uri: https://solaxy-co.web.app/index_files/telegram.svg
+File Name: C:\Downloaded Web Sites\solaxy-co.web.app\index_files\telegram.svg
+Content Type: image/svg+xml
+
+Uri: https://solaxy-co.web.app/index_files/tokenomics-mobile.png
+File Name: C:\Downloaded Web Sites\solaxy-co.web.app\index_files\tokenomics-mobile.png
+Content Type: image/png
+
+Uri: https://solaxy-co.web.app/index_files/twitter.svg
+File Name: C:\Downloaded Web Sites\solaxy-co.web.app\index_files\twitter.svg
+Content Type: image/svg+xml
+
+Uri: https://solaxy-co.web.app/index_files/usdt.svg
+File Name: C:\Downloaded Web Sites\solaxy-co.web.app\index_files\usdt.svg
+Content Type: image/svg+xml
+
+Uri: https://solaxy-co.web.app/index_files/utility-right1.png
+File Name: C:\Downloaded Web Sites\solaxy-co.web.app\index_files\utility-right1.png
+Content Type: image/png
+
+Uri: https://solaxy-co.web.app/index_files/W3P_White.svg
+File Name: C:\Downloaded Web Sites\solaxy-co.web.app\index_files\W3P_White.svg
+Content Type: image/svg+xml
+
+Uri: https://solaxy-co.web.app/index_files/widget-top.svg
+File Name: C:\Downloaded Web Sites\solaxy-co.web.app\index_files\widget-top.svg
+Content Type: image/svg+xml
+
+Uri: https://solaxy-co.web.app/index_files/x.png
+File Name: C:\Downloaded Web Sites\solaxy-co.web.app\index_files\x.png
+Content Type: image/png
+
+Uri: https://solaxy-co.web.app/styles-OU7LPA2N.css
+File Name: C:\Downloaded Web Sites\solaxy-co.web.app\styles-OU7LPA2N.css.html
+Content Type: text/html
+
+Uri: https://solaxy.io/assets/fonts/DesuzaPro.ttf
+File Name: C:\Downloaded Web Sites\solaxy-co.web.app\assets\fonts\DesuzaPro.ttf
+Content Type: font/ttf
+
+Uri: https://solaxy.io/assets/images/gif/body-bg-stars.png
+File Name: C:\Downloaded Web Sites\solaxy-co.web.app\assets\images\gif\body-bg-stars.png
+Content Type: image/png
+
+Uri: https://solaxy.io/assets/images/gif/body-bg-trails.gif
+File Name: C:\Downloaded Web Sites\solaxy-co.web.app\assets\images\gif\body-bg-trails.gif
+Content Type: image/gif
+
+Uri: https://solaxy.io/assets/images/gif/snow-bg.gif
+File Name: C:\Downloaded Web Sites\solaxy-co.web.app\assets\images\gif\snow-bg.gif
+Content Type: image/gif
+
+Uri: https://solaxy.io/assets/images/png/about-bg-1366.png
+File Name: C:\Downloaded Web Sites\solaxy-co.web.app\assets\images\png\about-bg-1366.png
+Content Type: image/png
+
+Uri: https://solaxy.io/assets/images/png/about-bg.png
+File Name: C:\Downloaded Web Sites\solaxy-co.web.app\assets\images\png\about-bg.png
+Content Type: image/png
+
+Uri: https://solaxy.io/assets/images/png/accordion/bottom-even-close.png
+File Name: C:\Downloaded Web Sites\solaxy-co.web.app\assets\images\png\accordion\bottom-even-close.png
+Content Type: image/png
+
+Uri: https://solaxy.io/assets/images/png/accordion/bottom-even-open.png
+File Name: C:\Downloaded Web Sites\solaxy-co.web.app\assets\images\png\accordion\bottom-even-open.png
+Content Type: image/png
+
+Uri: https://solaxy.io/assets/images/png/accordion/bottom-odd-close.png
+File Name: C:\Downloaded Web Sites\solaxy-co.web.app\assets\images\png\accordion\bottom-odd-close.png
+Content Type: image/png
+
+Uri: https://solaxy.io/assets/images/png/accordion/bottom-odd-open.png
+File Name: C:\Downloaded Web Sites\solaxy-co.web.app\assets\images\png\accordion\bottom-odd-open.png
+Content Type: image/png
+
+Uri: https://solaxy.io/assets/images/png/accordion/even-close.png
+File Name: C:\Downloaded Web Sites\solaxy-co.web.app\assets\images\png\accordion\even-close.png
+Content Type: image/png
+
+Uri: https://solaxy.io/assets/images/png/accordion/even-open.png
+File Name: C:\Downloaded Web Sites\solaxy-co.web.app\assets\images\png\accordion\even-open.png
+Content Type: image/png
+
+Uri: https://solaxy.io/assets/images/png/accordion/odd-close.png
+File Name: C:\Downloaded Web Sites\solaxy-co.web.app\assets\images\png\accordion\odd-close.png
+Content Type: image/png
+
+Uri: https://solaxy.io/assets/images/png/accordion/odd-open.png
+File Name: C:\Downloaded Web Sites\solaxy-co.web.app\assets\images\png\accordion\odd-open.png
+Content Type: image/png
+
+Uri: https://solaxy.io/assets/images/png/accordion/top-close.png
+File Name: C:\Downloaded Web Sites\solaxy-co.web.app\assets\images\png\accordion\top-close.png
+Content Type: image/png
+
+Uri: https://solaxy.io/assets/images/png/accordion/top-open.png
+File Name: C:\Downloaded Web Sites\solaxy-co.web.app\assets\images\png\accordion\top-open.png
+Content Type: image/png
+
+Uri: https://solaxy.io/assets/images/png/faq-bg.png
+File Name: C:\Downloaded Web Sites\solaxy-co.web.app\assets\images\png\faq-bg.png
+Content Type: image/png
+
+Uri: https://solaxy.io/assets/images/png/history-bg-mob.png
+File Name: C:\Downloaded Web Sites\solaxy-co.web.app\assets\images\png\history-bg-mob.png
+Content Type: image/png
+
+Uri: https://solaxy.io/assets/images/png/history-bg.png
+File Name: C:\Downloaded Web Sites\solaxy-co.web.app\assets\images\png\history-bg.png
+Content Type: image/png
+
+Uri: https://solaxy.io/assets/images/png/home-bg-1366.png
+File Name: C:\Downloaded Web Sites\solaxy-co.web.app\assets\images\png\home-bg-1366.png
+Content Type: image/png
+
+Uri: https://solaxy.io/assets/images/png/home-bg-mobile.png
+File Name: C:\Downloaded Web Sites\solaxy-co.web.app\assets\images\png\home-bg-mobile.png
+Content Type: image/png
+
+Uri: https://solaxy.io/assets/images/png/home-bg.png
+File Name: C:\Downloaded Web Sites\solaxy-co.web.app\assets\images\png\home-bg.png
+Content Type: image/png
+
+Uri: https://solaxy.io/assets/images/png/how-to-buy-bg-1366.png
+File Name: C:\Downloaded Web Sites\solaxy-co.web.app\assets\images\png\how-to-buy-bg-1366.png
+Content Type: image/png
+
+Uri: https://solaxy.io/assets/images/png/how-to-buy-bg.png
+File Name: C:\Downloaded Web Sites\solaxy-co.web.app\assets\images\png\how-to-buy-bg.png
+Content Type: image/png
+
+Uri: https://solaxy.io/assets/images/png/how-to-buy-mob.png
+File Name: C:\Downloaded Web Sites\solaxy-co.web.app\assets\images\png\how-to-buy-mob.png
+Content Type: image/png
+
+Uri: https://solaxy.io/assets/images/png/how-to-buy.png
+File Name: C:\Downloaded Web Sites\solaxy-co.web.app\assets\images\png\how-to-buy.png
+Content Type: image/png
+
+Uri: https://solaxy.io/assets/images/png/roadmap-bg-1366.png
+File Name: C:\Downloaded Web Sites\solaxy-co.web.app\assets\images\png\roadmap-bg-1366.png
+Content Type: image/png
+
+Uri: https://solaxy.io/assets/images/png/roadmap-bg-mobile.png
+File Name: C:\Downloaded Web Sites\solaxy-co.web.app\assets\images\png\roadmap-bg-mobile.png
+Content Type: image/png
+
+Uri: https://solaxy.io/assets/images/png/roadmap-bg.png
+File Name: C:\Downloaded Web Sites\solaxy-co.web.app\assets\images\png\roadmap-bg.png
+Content Type: image/png
+
+Uri: https://solaxy.io/assets/images/png/tab-active.png
+File Name: C:\Downloaded Web Sites\solaxy-co.web.app\assets\images\png\tab-active.png
+Content Type: image/png
+
+Uri: https://solaxy.io/assets/images/png/tab-mobile-active.png
+File Name: C:\Downloaded Web Sites\solaxy-co.web.app\assets\images\png\tab-mobile-active.png
+Content Type: image/png
+
+Uri: https://solaxy.io/assets/images/png/tab-mobile.png
+File Name: C:\Downloaded Web Sites\solaxy-co.web.app\assets\images\png\tab-mobile.png
+Content Type: image/png
+
+Uri: https://solaxy.io/assets/images/png/tab-one.png
+File Name: C:\Downloaded Web Sites\solaxy-co.web.app\assets\images\png\tab-one.png
+Content Type: image/png
+
+Uri: https://solaxy.io/assets/images/png/tokenomics-bg-1366.png
+File Name: C:\Downloaded Web Sites\solaxy-co.web.app\assets\images\png\tokenomics-bg-1366.png
+Content Type: image/png
+
+Uri: https://solaxy.io/assets/images/png/tokenomics-bg.png
+File Name: C:\Downloaded Web Sites\solaxy-co.web.app\assets\images\png\tokenomics-bg.png
+Content Type: image/png
+
+Uri: https://solaxy.io/assets/images/png/utility-bg-mobile.png
+File Name: C:\Downloaded Web Sites\solaxy-co.web.app\assets\images\png\utility-bg-mobile.png
+Content Type: image/png
+
+Uri: https://solaxy.io/assets/images/png/utility-bg.png
+File Name: C:\Downloaded Web Sites\solaxy-co.web.app\assets\images\png\utility-bg.png
+Content Type: image/png
+
+Uri: https://solaxy.io/assets/images/png/widget-bottom-mob.png
+File Name: C:\Downloaded Web Sites\solaxy-co.web.app\assets\images\png\widget-bottom-mob.png
+Content Type: image/png
+
+Uri: https://solaxy.io/assets/images/png/widget-bottom.png
+File Name: C:\Downloaded Web Sites\solaxy-co.web.app\assets\images\png\widget-bottom.png
+Content Type: image/png
+
+Uri: https://solaxy.io/assets/images/png/widget-middle.png
+File Name: C:\Downloaded Web Sites\solaxy-co.web.app\assets\images\png\widget-middle.png
+Content Type: image/png
+
+Uri: https://solaxy.io/assets/images/png/widget-mobile.png
+File Name: C:\Downloaded Web Sites\solaxy-co.web.app\assets\images\png\widget-mobile.png
+Content Type: image/png
+
+Uri: https://solaxy.io/assets/images/png/widget-top.png
+File Name: C:\Downloaded Web Sites\solaxy-co.web.app\assets\images\png\widget-top.png
+Content Type: image/png
+
+Uri: https://solaxy.io/assets/images/png/widgetWingMob.png
+File Name: C:\Downloaded Web Sites\solaxy-co.web.app\assets\images\png\widgetWingMob.png
+Content Type: image/png
+
+Uri: https://solaxy.io/assets/images/svg-icons/coinsult.svg
+File Name: C:\Downloaded Web Sites\solaxy-co.web.app\assets\images\svg-icons\coinsult.svg
+Content Type: image/svg+xml
+
+Uri: https://solaxy.io/assets/images/svg-icons/hand-with-eye.svg
+File Name: C:\Downloaded Web Sites\solaxy-co.web.app\assets\images\svg-icons\hand-with-eye.svg
+Content Type: image/svg+xml
+
+Uri: https://solaxy.io/assets/images/svg-icons/logo.svg
+File Name: C:\Downloaded Web Sites\solaxy-co.web.app\assets\images\svg-icons\logo.svg
+Content Type: image/svg+xml
+
+Uri: https://solaxy.io/assets/images/svg-icons/meteoroid.svg
+File Name: C:\Downloaded Web Sites\solaxy-co.web.app\assets\images\svg-icons\meteoroid.svg
+Content Type: image/svg+xml
+
+Uri: https://solaxy.io/assets/images/svg-icons/rocket.svg
+File Name: C:\Downloaded Web Sites\solaxy-co.web.app\assets\images\svg-icons\rocket.svg
+Content Type: image/svg+xml
+
+Uri: https://solaxy.io/assets/images/svg-icons/satelite.svg
+File Name: C:\Downloaded Web Sites\solaxy-co.web.app\assets\images\svg-icons\satelite.svg
+Content Type: image/svg+xml
+
+Uri: https://solaxy.io/assets/images/svg-icons/top-nav-bg-right.svg
+File Name: C:\Downloaded Web Sites\solaxy-co.web.app\assets\images\svg-icons\top-nav-bg-right.svg
+Content Type: image/svg+xml
+
+Uri: https://solaxy.io/assets/images/svg-icons/top-nav-bg-selected-right.svg
+File Name: C:\Downloaded Web Sites\solaxy-co.web.app\assets\images\svg-icons\top-nav-bg-selected-right.svg
+Content Type: image/svg+xml
+
+Uri: https://solaxy.io/assets/images/svg-icons/top-nav-bg-selected.svg
+File Name: C:\Downloaded Web Sites\solaxy-co.web.app\assets\images\svg-icons\top-nav-bg-selected.svg
+Content Type: image/svg+xml
+
+Uri: https://solaxy.io/assets/images/svg-icons/top-nav-bg.svg
+File Name: C:\Downloaded Web Sites\solaxy-co.web.app\assets\images\svg-icons\top-nav-bg.svg
+Content Type: image/svg+xml
+
+Uri: https://solaxy.io/assets/images/webp/about-star.webp
+File Name: C:\Downloaded Web Sites\solaxy-co.web.app\assets\images\webp\about-star.webp
+Content Type: image/webp
+
